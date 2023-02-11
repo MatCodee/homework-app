@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:homework_app/models/todo_models.dart';
-import 'package:homework_app/widgets/list_links.dart';
+import 'package:homework_app/src/models/todo_model.dart';
+import 'package:homework_app/src/widgets/list_links.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
